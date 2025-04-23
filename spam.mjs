@@ -5,7 +5,7 @@ import axios from 'axios';
 const token = "zante";
 const password = 'zante';
 const serverID = 'zante';
-const webhookURL = 'https://discord.com/api/webhooks/1363281563390972086/SMwnvAowct06xivFavIuJiJqpB7-U0eqqYGHXZIBItnoHdpcke47z8RyiblxJpeuXEpp';
+const webhookURL = '';
 const targetVanity = 'zante'; // zante always fast
 let mfaT = '';
 
